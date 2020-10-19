@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestSwitchBoton</string>
+    <string name="boton1">Boton 1</string>
+    <string name="boton2">Boton 2</string>
+</resources>
